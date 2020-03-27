@@ -3,6 +3,8 @@ Copyright (C) 2020 - The MoKee Open Source Project
 Device configuration for Meizu 16th Plus
 ==============
 
+[![][installs]][download]
+
 The Meizu 16th Plus (codenamed _"M1892"_) are high-end smartphones from Meizu.
 
 Meizu 16th Plus was announced and released in August 2018.
@@ -26,3 +28,6 @@ Meizu 16th Plus was announced and released in August 2018.
 ## Device picture
 
 ![Meizu 16th Plus](https://www3.res.meizu.com/static/cn/16/spec/images/mz16plus_blue_99a2f38.png "Meizu 16th Plus")
+
+[installs]: https://img.shields.io/badge/dynamic/json?style=flat-square&color=1976f2&label=MoKee&query=%24.count&suffix=%20installs&url=https%3A%2F%2Fstats-api.xingrz.me%2Fdata%3Fdevice%3Dm1892
+[download]: https://rom.mk/m1892
